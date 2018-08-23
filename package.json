@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/18WDWU02/express-app/issues"
   },
-  "homepage": "https://github.com/18WDWU02/express-app#readme"
+  "homepage": "https://github.com/18WDWU02/express-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "twitter": "^1.7.1"
+  }
 }
